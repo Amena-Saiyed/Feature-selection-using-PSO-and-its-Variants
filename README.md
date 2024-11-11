@@ -1,4 +1,4 @@
-# Diabetes Prediction Using Optimized Feature Selection
+# Feature Selection for predicting diabetes using Particle swarm optimization
 
 This project implements a machine learning model for predicting **diabetes mellitus** using advanced feature selection techniques. We utilize **Particle Swarm Optimization (PSO)**, **Improved PSO (IPSO)**, and **PSO with Local Search (PSO-LS)** to optimize feature selection, aiming to enhance the accuracy of the model and reduce computational complexity.
 

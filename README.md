@@ -14,3 +14,8 @@ The primary objective of this project is to demonstrate how optimization algorit
 ### Dataset:
 The project uses the **Pima Indians Diabetes Dataset**, a widely used dataset in medical machine learning tasks that includes features like **pregnancies**, **glucose levels**, **blood pressure**, and more to predict the presence of diabetes.
 
+### Classification Models:
+We employ Random Forest and XGBoost classifiers to predict diabetes, both of which are popular and powerful machine learning algorithms known for their accuracy and robustness. The models are optimized by selecting the most relevant features using PSO, IPSO, and PSO-LS, resulting in improved performance over standard feature selection methods.
+
+This project enhances the traditional PSO by introducing IPSO, which integrates genetic algorithm parameters for more efficient local search and improved feature selection. Additionally, the PSO-LS approach refines the global search of PSO with a local search technique, making the feature selection process even more effective in identifying the best subset of features.
+
